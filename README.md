@@ -14,10 +14,13 @@ Finally, I replaced all divs with sections in order to meet accessibility standa
 After every change I ensured that the site still functioned as intended, so I would know where I made an error along the way. 
 
 ## Code Snippet
-An example of the section tags that replaced div tags.
+An example of the section tags that replaced div tags, as well as image alts.
 
 <img src="./assets/read-images/refactor-snippet.jpg">
 
+## Built With
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Technologies used:
 - [Visual Studio Code](https://code.visualstudio.com/)
