@@ -13,6 +13,11 @@ Finally, I replaced all divs with sections in order to meet accessibility standa
 
 After every change I ensured that the site still functioned as intended, so I would know where I made an error along the way. 
 
+## Code Snippet
+An example of the section tags that replaced div tags.
+
+<img src="./assets/read-images/refactor-snippet.jpg">
+
 
 ## Technologies used:
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -20,8 +25,14 @@ After every change I ensured that the site still functioned as intended, so I wo
 - [Github](https://github.com/)
 - [Google Chrome](https://www.google.com/chrome/)
 
+## Deployed Link
+* [https://alonzofroman.github.io/code-refactor/]
 
-## Links
+
+## Author
+Alonzo Roman
+
+## Author Links
 -[Github](https://github.com/alonzofroman)
 -[LinkedIn](https://www.linkedin.com/in/alonzo-roman/)
 
